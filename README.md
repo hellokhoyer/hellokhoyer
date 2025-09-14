@@ -24,4 +24,4 @@ _I definitely have my preferences, but I’m not bound to any specific tech, alw
 Open to new opportunities and ready to contribute to a team that values thoughtful, reliable engineering.
 
 
-[Learn more about me](https://abulkhoyer.com/about.html)
+[Learn more about me](https://abulkhoyer.com/about)
