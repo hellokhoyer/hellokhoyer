@@ -11,9 +11,9 @@ I’m confident in developing comprehensive solutions involving JavaScript, PHP,
 
 _I definitely have my preferences, but I’m not bound to any specific tech, always choosing the right tool for the job and eager to learn if needed._
 
-- **Languages:** JavaScript/TypeScript, PHP, Node.js  
+- **Languages:** JavaScript/TypeScript, PHP, Node.js, Bun  
 - **Frontend:** React (Next.js, Gatsby, Remix), Vue, shadcn/ui, Tailwind CSS, SASS, LESS  
-- **Backend:** Express, Laravel, WordPress
+- **Backend:** Express, Hono, Laravel, WordPress
 - **APIs:** REST, GraphQL
 - **Databases:** SQL (MySQL, PostgreSQL), NoSQL (MongoDB), Firebase  
 - **Tools/Frameworks:** Redux, TanStack, Jest, Semgrep, Vitest, Playwright, Wallaby
