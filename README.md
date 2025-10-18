@@ -26,6 +26,7 @@ _I definitely have my preferences, but I’m not bound to any specific tech, alw
 > _A GRE preparation application, vocubularly sourced from platforms like Magoosh, Manhattan Prep, and Kaplan._ • **[Live Site →](https://wordwonder.onrender.com/)** • **[Repository →](https://github.com/hellokhoyer/WordWonder)**
 
 **Tech Stack**: `Express.js`
+
 **Features**: Native API, Instant search with live auto-suggestions, Definitions, usage examples, synonyms & antonyms, Dynamic search routing and word slugs, Audio Pronunciation
 
 
