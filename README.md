@@ -21,6 +21,13 @@ _I definitely have my preferences, but I’m not bound to any specific tech, alw
 
 ## Projects
 
+### **ExtractCSS.online**
+
+> _A tool for automatically extracting and optimizing CSS from HTML files for cleaner, more efficient styling._ • **[Live Site →](https://extractcss.online/)**
+
+**Tech Stack**: Hono, tRPC, TanStack Router
+**Features**:Provides a fast and streamlined process for extracting unused or unnecessary CSS from HTML, helping to minimize file sizes and improve page load times.
+
 ### **Wordwonder**
 
 > _A GRE preparation application, vocubularly sourced from platforms like Magoosh, Manhattan Prep, and Kaplan._ • **[Live Site →](https://wordwonder.onrender.com/)** • **[Repository →](https://github.com/hellokhoyer/WordWonder)**
