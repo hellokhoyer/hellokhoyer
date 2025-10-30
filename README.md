@@ -1,9 +1,6 @@
 # Abul Khoyer
 
-Front-end focused full-stack developer with over a decade of experience in web development and technical support.  
-**WARP and Claude Code power user**, leveraging AI-assisted development for rapid prototyping and enhanced productivity.  
-
-I’m confident in developing comprehensive solutions involving JavaScript, PHP, or WordPress, with a strong focus on accessible UI and performance optimization.  
+Full Stack Engineer with a decade of experience in the web industry, bringing a diverse perspective from various roles. I started my career by converting PSDs into HTML and WordPress themes and then spent 5 years in technical support. My background includes significant experience with PHP and WordPress, but my passion has always been JavaScript and its ecosystem. Outside of office hours, I’ve dedicated much of my career to exploring JavaScript, and now I am fully immersed in it.
 
 ---
 
@@ -28,12 +25,12 @@ _I definitely have my preferences, but I’m not bound to any specific tech, alw
 **Tech Stack**: Hono, tRPC, TanStack Router
 **Features**:Provides a fast and streamlined process for extracting unused or unnecessary CSS from HTML, helping to minimize file sizes and improve page load times.
 
-### **Wordwonder**
+### **Verbalize**
 
-> _A GRE preparation application, vocubularly sourced from platforms like Magoosh, Manhattan Prep, and Kaplan._ • **[Live Site →](https://wordwonder.onrender.com/)** • **[Repository →](https://github.com/hellokhoyer/WordWonder)**
+> _All you need to enhance your vocabulary for GRE and IELTS, vocubularly sourced from platforms like Magoosh, Manhattan Prep, and Kaplan._ • **[Live Site →](https://verbalize-online.com/)**
 
-**Tech Stack**: `Express.js`                              
-**Features**: Native API, Instant search with live auto-suggestions, Definitions, usage examples, synonyms & antonyms, Dynamic search routing and word slugs, Audio Pronunciation
+**Tech Stack**: `TypeScript, React, Hono, tRPC, TanStack Router, Cloudflare D1`                              
+**Features**: Native API, Instant search with live auto-suggestions, Definitions, usage examples, synonyms & antonyms, Audio Pronunciation, One-click details copy, pupular words based user interactions.
 
 
 ### **Nido**
