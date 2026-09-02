@@ -21,7 +21,7 @@ I have preferences, but I use the right tool for the job.
 ## Projects
 
 ### ExtractCSS.online
-> Helps you ship only the CSS your page uses. Visual preview catches regressions. • [Live →](https://extractcss.online/)
+> Helps you ship only the CSS your page uses. Visual preview catches regressions. • [Live →](https://extract-css.hellokhoyer.workers.dev/)
 
 - Tech: `TypeScript`, `Hono`, `tRPC`, `TanStack Router`
 - Highlights:
