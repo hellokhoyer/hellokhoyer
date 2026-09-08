@@ -1,48 +1,47 @@
 # Abul Khoyer
 
-Full‑stack developer focused on the web. Builds and ships end to end. Works with edge runtimes, type‑safe APIs, and calm, readable UIs. Measures what matters.
+Product Engineer at [Themefic](https://themefic.com/). I mostly love working with WordPress, PHP, JavaScript, and Cloudflare products. Before this, four years in WordPress product support at WPManageNinja, on plugins running across 1M+ active websites.
 
----
-
-## Tech Stack
-
-I have preferences, but I use the right tool for the job.
-
-- Languages: JavaScript/TypeScript, PHP, Node.js, Bun
-- Frontend: React (Next.js, Gatsby, Remix), Vue, shadcn/ui, Tailwind CSS, SASS, LESS
-- Backend: Express, Hono, Laravel, WordPress
-- APIs: REST, GraphQL
-- Databases: SQL (MySQL, PostgreSQL), NoSQL (MongoDB), Firebase
-- Tools/Frameworks: Redux, TanStack, Jest, Semgrep, Vitest, Playwright, Wallaby
-- Cloud/DevOps: CI/CD (GitHub Actions), Cloudflare, AWS, Docker, Serverless
+I use AI tools through the whole build. The judgment about what ships stays mine.
 
 ---
 
 ## Projects
 
-### ExtractCSS.online
-> Helps you ship only the CSS your page uses. Visual preview catches regressions. • [Live →](https://extract-css.hellokhoyer.workers.dev/)
+### Fragscentric — [fragscentric.com](https://fragscentric.com/)
+> A perfume store I run, built end to end: one 3D bottle model serving every product page, a chat advisor grounded in the real catalog, and a Telegram bot that runs order operations. Serverless on Cloudflare, infrastructure cost effectively zero.
 
-- Tech: `TypeScript`, `Hono`, `tRPC`, `TanStack Router`
-- Highlights:
-  - Reduces CSS to the selectors your HTML actually uses
-  - Visual preview to spot breakage before copying
-  - Migrated from Next.js to Cloudflare Workers for lower latency and cost
+- One GLB + runtime label textures instead of a 3D model per product
+- AI advisor that recommends from live stock and real prices, no hallucinated bottles
+- Orders, restocks, and daily stats handled from Telegram with inline buttons
+- Built for AI agents too: `llms.txt`, JSON-LD, first-party consent-gated analytics
 
-### Verbalize
-> A simple place to learn and review words with examples and community votes. • [Live →](https://verbalize-online.com/)
+### extract-css — [Live →](https://extract-css.hellokhoyer.workers.dev/)
+> Paste HTML and CSS, get back only what your page actually uses, with a sandboxed preview.
 
-- Tech: `TypeScript`, `React`, `Hono`, `tRPC`, `TanStack Router`, `Cloudflare infrastructure`
-- Highlights:
-  - Lab LCP p50 ≈ 1.17s on Fast 4G. CLS 0.00
-  - Debounced, index‑friendly search with sensible limits
-  - Clean UI with keyboard paths and calm states
----
+- Runs at the edge on Cloudflare Workers, migrated from Next.js for lower cost
+- Small type-safe API (tRPC) over the extraction engine
 
-### Current Tech Stack and Learning
-Check out my [/uses](https://abulkhoyer.com/uses/) page.
+### Verbalize — [Live →](https://verbalize-online.com/)
+> GRE and IELTS words in small doses, in the browser and in a new-tab extension.
+
+- Lab LCP p50 ≈ 1.17s on Fast 4G, CLS 0.00
+- One shared schema drives the API, the app, and the extension
 
 ---
 
-Open to new opportunities. I like clear problems, simple designs, and shipping.  
-[Learn more about me →](https://abulkhoyer.com/about)
+## Stack
+
+Daily: WordPress, PHP, JavaScript, Cloudflare.
+Beyond that, I work across the JavaScript ecosystem.
+
+---
+
+## Elsewhere
+
+- [abulkhoyer.com](https://abulkhoyer.com/) — my corner of the web
+- [What I use and why](https://abulkhoyer.com/uses/)
+- [Notes](https://abulkhoyer.com/notes/)
+- [Work with me](https://abulkhoyer.com/hire/)
+
+Open to freelance products, audits, and AI features with clear scope.
