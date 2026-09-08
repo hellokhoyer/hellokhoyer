@@ -8,7 +8,7 @@ I use AI tools through the whole build. The judgment about what ships stays mine
 
 ## Projects
 
-### Fragscentric — [fragscentric.com](https://fragscentric.com/)
+### Fragscentric — [Live →](https://fragscentric.com/)
 > A perfume store I run, built end to end: one 3D bottle model serving every product page, a chat advisor grounded in the real catalog, and a Telegram bot that runs order operations. Serverless on Cloudflare, infrastructure cost effectively zero.
 
 - One GLB + runtime label textures instead of a 3D model per product
