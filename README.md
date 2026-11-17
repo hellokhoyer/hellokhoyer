@@ -1,23 +1,36 @@
 # Abul Khoyer
 
-Product Engineer at [Themefic](https://themefic.com/). I mostly love working with WordPress, PHP, JavaScript, and Cloudflare products. Before this, four years in WordPress product support at WPManageNinja, on plugins running across 1M+ active websites.
+Khoyer writes code, hunts bugs, and breathes perfume.
+Product engineer, ex-support manager, and fraghead.
 
-I use AI tools through the whole build. The judgment about what ships stays mine.
+Product engineer, Building Turtlekit.
+
+I work as a freelance product engineer for [Pixelfic](https://pixelfic.com/), across its brands
+[Themefic](https://themefic.com/) and [Framefic](https://framefic.com/): I manage and improve Themefic's
+WordPress products, built TaxiMint, and built several Framer products. Before that, four years in
+WordPress product support at WPManageNinja, the last one leading the team, on plugins running across
+1M+ active websites.
+
+---
+
+## What I build
+
+- **[Turtlekit](https://turtlekit.dev/)**: a React component library for building with AI coding agents, free on npm.
+- **[Turtlereport](https://turtleplugins.com/turtlereport/)**: SEO reports and site monitoring inside WordPress, on WordPress.org, built with Turtlekit.
 
 ---
 
 ## Stack
 
-Daily: WordPress, PHP, JavaScript, Cloudflare.
-Beyond that, I work across the JavaScript ecosystem.
+Daily: WordPress, PHP, JavaScript, React, Cloudflare.
 
 ---
 
 ## Elsewhere
 
-- [abulkhoyer.com](https://abulkhoyer.com/) — my corner of the web
-- [What I use and why](https://abulkhoyer.com/uses/)
+- [abulkhoyer.com](https://abulkhoyer.com/), my corner of the web
 - [Notes](https://abulkhoyer.com/notes/)
-- [Work with me](https://abulkhoyer.com/hire/)
+- [What I use and why](https://abulkhoyer.com/uses/)
+- [Contact](https://abulkhoyer.com/hire/)
 
-Open to freelance products, audits, and AI features with clear scope.
+Open to product engineering roles.
