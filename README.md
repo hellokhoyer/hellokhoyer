@@ -1,7 +1,5 @@
 # Abul Khoyer
 
-I write code, hunt bugs, and breathe perfume.
-
 Product engineer, ex-support manager, and fraghead.
 
 I work as a freelance product engineer for [Pixelfic](https://pixelfic.com/), across its brands
