@@ -1,9 +1,8 @@
 # Abul Khoyer
 
 I write code, hunt bugs, and breathe perfume.
-Product engineer, ex-support manager, and fraghead.
 
-Product engineer, Building Turtlekit.
+Product engineer, ex-support manager, and fraghead.
 
 I work as a freelance product engineer for [Pixelfic](https://pixelfic.com/), across its brands
 [Themefic](https://themefic.com/) and [Framefic](https://framefic.com/): I manage and improve Themefic's
