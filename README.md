@@ -1,6 +1,6 @@
 # Abul Khoyer
 
-Khoyer writes code, hunts bugs, and breathes perfume.
+I write code, hunt bugs, and breathe perfume.
 Product engineer, ex-support manager, and fraghead.
 
 Product engineer, Building Turtlekit.
