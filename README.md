@@ -14,8 +14,8 @@ WordPress product support at WPManageNinja, the last one leading the team, on pl
 
 ## What I build
 
-- **[Turtlekit](https://turtlekit.dev/)**: a React component library for building with AI coding agents, free on npm.
-- **[Turtlereport](https://turtleplugins.com/turtlereport/)**: SEO reports and site monitoring inside WordPress, on WordPress.org, built with Turtlekit.
+- **[Turtlekit](https://turtlekit.dev/)**: a React component library for AI-assisted product engineering.
+- **[Turtlereport](https://turtleplugins.com/turtlereport/)**: SEO reports and site monitoring inside WordPress, built with Turtlekit.
 
 ---
 
